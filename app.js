@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 
+//index page
 app.get("/", (req, res) => {
   res.send("Hello!");
 }).listen(3000, () => {
