@@ -1,0 +1,23 @@
+{
+  "name": "git-2-github",
+  "version": "1.0.0",
+  "description": "git trail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grjan7/git-2-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grjan7/git-2-github/issues"
+  },
+  "homepage": "https://github.com/grjan7/git-2-github#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
